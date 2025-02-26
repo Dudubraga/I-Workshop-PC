@@ -14,10 +14,31 @@ Questões utilizadas durante as aulas, contests e práticas do <b>I Workshop de 
 
 ## Instrutores:
 
-- Eduardo Braga
+- Eduardo Braga 
+<a href="https://github.com/Dudubraga">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
 - Henrique Franca
+<a href="https://github.com/HenriqueFrancaa">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
 - Isabela Medeiros
+<a href="https://github.com/belamedeirosbl">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
 - Isadora Xavier
+<a href="https://github.com/isadoravrx">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
 - Júlia Vilela
+<a href="https://github.com/juliaavilelaa">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
 - Maria Luiza Ribeiro 
+<a href="https://github.com/mlrlima">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
 - Victor Hugo Silva
+<a href="https://github.com/VictorHugoJSS">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+
