@@ -14,31 +14,17 @@ Questões utilizadas durante as aulas, contests e práticas do <b>I Workshop de 
 
 ## Instrutores:
 
-- Eduardo Braga 
-<a href="https://github.com/Dudubraga">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/Dudubraga">Eduardo Braga </a>
 
-- Henrique Franca
-<a href="https://github.com/HenriqueFrancaa">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/HenriqueFrancaa">Henrique Franca</a>
 
-- Isabela Medeiros
-<a href="https://github.com/belamedeirosbl">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/belamedeirosbl">Isabela Medeiros</a>
 
-- Isadora Xavier
-<a href="https://github.com/isadoravrx">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/isadoravrx">Isadora Xavier</a>
 
-- Júlia Vilela
-<a href="https://github.com/juliaavilelaa">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/juliaavilelaa">Júlia Vilela</a>
 
-- Maria Luiza Ribeiro 
-<a href="https://github.com/mlrlima">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/mlrlima">Maria Luiza Ribeiro</a>
 
-- Victor Hugo Silva
-<a href="https://github.com/VictorHugoJSS">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50px"></a>
+- <a href="https://github.com/VictorHugoJSS">Victor Hugo Silva</a>
 
