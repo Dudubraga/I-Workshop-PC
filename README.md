@@ -2,7 +2,7 @@
 
 Questões utilizadas durante as aulas, contests e práticas do <b>I Workshop de Programação Competitiva</b>
 
-<img src="https://i.imgur.com/rBNauyE.png" width="350px">
+<img src="https://i.imgur.com/rBNauyE.png" width="400px">
 
 ## Lista de Conteúdos:
 
