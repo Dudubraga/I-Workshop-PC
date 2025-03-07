@@ -1,3 +1,11 @@
+/*
+    Vestibular - Neps (https://neps.academy/br/exercise/160)
+    
+    Nome de quem Resolveu: Victor Hugo
+
+    Ultima alteração: 07/03/2025 14:23
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

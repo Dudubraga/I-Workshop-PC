@@ -1,3 +1,11 @@
+/*
+    Distinct Numbers - CSES (https://cses.fi/problemset/task/1621)
+    
+    Nome de quem Resolveu: Victor Hugo
+
+    Ultima alteração: 07/03/2025 14:25
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
