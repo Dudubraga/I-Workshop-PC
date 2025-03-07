@@ -1,5 +1,5 @@
 /* 
-Nome da Questão - SPOJ (https://br.spoj.com/problems/F91/) 
+F91 - SPOJ (https://br.spoj.com/problems/F91/) 
 Maria Luiza
 */
 #include <bits/stdc++.h>
