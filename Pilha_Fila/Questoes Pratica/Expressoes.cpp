@@ -1,5 +1,5 @@
 /*
-    Soma de Casas - NEPS (https://neps.academy/br/exercise/271)
+    Expressões - NEPS (https://neps.academy/br/exercise/271)
     
     Nome de quem Resolveu: Victor Hugo
 

@@ -1,3 +1,7 @@
+/* 
+Diamantes e Areia - Beecrowd - (https://judge.beecrowd.com/pt/problems/view/1069)
+Júlia
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
