@@ -2,7 +2,7 @@
  * Fila do Recreio - BeeCrowd(https://judge.beecrowd.com/en/problems/view/1548)
  * Nome de quem resolveu: Victor Hugo
  * Ultima Alteração: 11/03/2025 07:56
-
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
