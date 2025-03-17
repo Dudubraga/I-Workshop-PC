@@ -1,9 +1,13 @@
+/*
+Train Swapping - UVA [https://onlinejudge.org/external/2/299.pdf]
+Henrique Franca
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
 
 int main(){
-    int test,tamanho, vagao,temp;
+    int test, tamanho, vagao, temp;
     cin >> test;
     
     for(int i = 0; i < test; i++){
@@ -29,8 +33,7 @@ int main(){
         }
 
         cout <<"Optimal train swapping takes " << cont << " swaps." << endl;
-
-
     }
+
     return 0;
 }
