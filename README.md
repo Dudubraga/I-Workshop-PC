@@ -10,6 +10,7 @@ Questões utilizadas durante as aulas, contests e práticas do <b>I Workshop de 
 2. Looping, Modularização e Recursão
 3. Vetor, String e Matriz
 4. Busca e Ordenação
+5. Pilha e Fila
 
 ## Instrutores:
 
