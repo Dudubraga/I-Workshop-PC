@@ -1,52 +1,53 @@
-/* 
-Agressive Cows - SPOJ [https://www.spoj.com/problems/AGGRCOW/]
+/*
+Aggressive Cows - SPOJ [https://www.spoj.com/problems/AGGRCOW/]
 Eduardo Braga
 */
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int>stalls;
-
-bool verify(int mid, int C){
-    int count = 1, pos = stalls[0];
-    for(int i = 1; i < stalls.size(); i++){
-        if(stalls[i] - pos >= mid){
-            count++;
-            pos = stalls[i];
+bool verificacao(vector<int>estabulos, int mid, int vacas){
+    int contador = 1; 
+    int pos = estabulos[0];
+    for(int i = 1; i < estabulos.size(); i++){
+        if(estabulos[i] - pos >= mid){
+            contador++;
+            pos = estabulos[i];
         }
     }
-    if(count >= C){ return true; }
-    else{ return false; }
+    if(contador >= vacas){
+        return true;
+    }
+    return false;
 }
 
-int binSearch(int N, int C){
-    int high = stalls[N-1] - stalls[0];
-    int low = 1, mid, ans = 0;
+int buscaBinaria(vector<int>estabulos, int N, int vacas){
+    int high = estabulos[N-1] - estabulos[0];
+    int low = 1, mid = 0, distancia = 0;
     while(low <= high){
         mid = (high + low) / 2;
-        if(verify(mid, C)){
-            ans = mid;
+        if(verificacao(estabulos, mid, vacas)){
+            distancia = mid;
             low = mid + 1;
-        } else {
+        }else{
             high = mid - 1;
         }
     }
-    return ans;
+    return distancia;
 }
 
 int main(){
-    int t, N, C, x;
-    cin >> t;
+    int t; cin >> t;
+    int N, C, x;
     for(int i = 0; i < t; i++){
         cin >> N >> C;
+        vector<int>estabulos;
         for(int j = 0; j < N; j++){
             cin >> x;
-            stalls.push_back(x);
+            estabulos.push_back(x);
         }
-        sort(stalls.begin(), stalls.end());
-
-        cout << binSearch(N, C) << endl;
-        stalls.clear();
+        sort(estabulos.begin(), estabulos.end());
+        int resposta = buscaBinaria(estabulos, N, C);
+        cout << resposta << endl;
     }
 
     return 0;
